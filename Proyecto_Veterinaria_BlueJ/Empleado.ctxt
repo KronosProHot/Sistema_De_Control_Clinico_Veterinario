@@ -1,0 +1,6 @@
+#BlueJ class context
+#Thu Sep 17 22:24:29 CST 2026
+comment0.target=Empleado
+comment1.params=nombre rol
+comment1.target=Empleado(java.lang.String, java.lang.String)
+numComments=2

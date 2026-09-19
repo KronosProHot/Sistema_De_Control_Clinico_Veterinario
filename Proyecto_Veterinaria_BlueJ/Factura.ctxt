@@ -1,0 +1,8 @@
+#BlueJ class context
+#Thu Sep 17 22:24:22 CST 2026
+comment0.target=Factura
+comment1.params=cliente total
+comment1.target=Factura(Cliente, double)
+comment2.params=metodoPago
+comment2.target=void procesarPago(java.lang.String)
+numComments=3

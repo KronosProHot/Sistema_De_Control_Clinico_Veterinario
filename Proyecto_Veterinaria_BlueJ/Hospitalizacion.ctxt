@@ -1,0 +1,10 @@
+#BlueJ class context
+#Thu Sep 17 22:24:20 CST 2026
+comment0.target=Hospitalizacion
+comment1.params=paciente fechaIngreso
+comment1.target=Hospitalizacion(Mascota, java.lang.String)
+comment2.params=estado
+comment2.target=void actualizarMonitoreo(java.lang.String)
+comment3.params=fechaAlta
+comment3.target=void darDeAlta(java.lang.String)
+numComments=4

@@ -1,0 +1,8 @@
+#BlueJ class context
+#Thu Sep 17 22:23:58 CST 2026
+comment0.target=Cliente
+comment1.params=nombre telefono
+comment1.target=Cliente(java.lang.String, java.lang.String)
+comment2.params=m
+comment2.target=void registrarMascota(Mascota)
+numComments=3

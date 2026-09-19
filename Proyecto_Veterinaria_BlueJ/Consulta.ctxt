@@ -1,0 +1,10 @@
+#BlueJ class context
+#Thu Sep 17 22:24:14 CST 2026
+comment0.target=Consulta
+comment1.params=paciente veterinario
+comment1.target=Consulta(Mascota, Empleado)
+comment2.params=peso temperatura
+comment2.target=void realizarTriaje(double, double)
+comment3.params=diagnostico recetaMedica
+comment3.target=void emitirDiagnostico(java.lang.String, java.lang.String)
+numComments=4
