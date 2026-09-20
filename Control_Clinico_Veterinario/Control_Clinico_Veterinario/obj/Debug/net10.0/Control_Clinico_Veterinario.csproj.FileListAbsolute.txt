@@ -1,0 +1,15 @@
+C:\Users\PROBOOK\source\repos\Control_Clinico_Veterinario\Control_Clinico_Veterinario\bin\Debug\net10.0\Control_Clinico_Veterinario.exe
+C:\Users\PROBOOK\source\repos\Control_Clinico_Veterinario\Control_Clinico_Veterinario\bin\Debug\net10.0\Control_Clinico_Veterinario.deps.json
+C:\Users\PROBOOK\source\repos\Control_Clinico_Veterinario\Control_Clinico_Veterinario\bin\Debug\net10.0\Control_Clinico_Veterinario.runtimeconfig.json
+C:\Users\PROBOOK\source\repos\Control_Clinico_Veterinario\Control_Clinico_Veterinario\bin\Debug\net10.0\Control_Clinico_Veterinario.dll
+C:\Users\PROBOOK\source\repos\Control_Clinico_Veterinario\Control_Clinico_Veterinario\bin\Debug\net10.0\Control_Clinico_Veterinario.pdb
+C:\Users\PROBOOK\source\repos\Control_Clinico_Veterinario\Control_Clinico_Veterinario\obj\Debug\net10.0\Control_Clinico_Veterinario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PROBOOK\source\repos\Control_Clinico_Veterinario\Control_Clinico_Veterinario\obj\Debug\net10.0\Control_Clinico_Veterinario.AssemblyInfoInputs.cache
+C:\Users\PROBOOK\source\repos\Control_Clinico_Veterinario\Control_Clinico_Veterinario\obj\Debug\net10.0\Control_Clinico_Veterinario.AssemblyInfo.cs
+C:\Users\PROBOOK\source\repos\Control_Clinico_Veterinario\Control_Clinico_Veterinario\obj\Debug\net10.0\Control_Clinico_Veterinario.csproj.CoreCompileInputs.cache
+C:\Users\PROBOOK\source\repos\Control_Clinico_Veterinario\Control_Clinico_Veterinario\obj\Debug\net10.0\Control_Clinico_Veterinario.dll
+C:\Users\PROBOOK\source\repos\Control_Clinico_Veterinario\Control_Clinico_Veterinario\obj\Debug\net10.0\refint\Control_Clinico_Veterinario.dll
+C:\Users\PROBOOK\source\repos\Control_Clinico_Veterinario\Control_Clinico_Veterinario\obj\Debug\net10.0\Control_Clinico_Veterinario.pdb
+C:\Users\PROBOOK\source\repos\Control_Clinico_Veterinario\Control_Clinico_Veterinario\obj\Debug\net10.0\Control_Clinico_Veterinario.genruntimeconfig.cache
+C:\Users\PROBOOK\source\repos\Control_Clinico_Veterinario\Control_Clinico_Veterinario\obj\Debug\net10.0\ref\Control_Clinico_Veterinario.dll
+C:\Users\PROBOOK\source\repos\Control_Clinico_Veterinario\Control_Clinico_Veterinario\obj\Debug\net10.0\Control_.5F7D2E21.Up2Date
